@@ -15,4 +15,5 @@
   X-Content-Type-Options: nosniff
   X-Xss-Protection:	1; mode=block
   Feature-Policy: accelerometer 'none'; camera 'none'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; payment 'none'; usb 'none'
+  Access-Control-Allow-Credentials: true
   Access-Control-Allow-Origin: https://besttime-blog.herokuapp.com
