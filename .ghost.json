@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://49.12.41.45:8081",
-    "contentApiKey": "b178f24c80437ca3822c2b0497"
+    "apiUrl": "https://staging.besttime.app/ghost",
+    "contentApiKey": "27fb37e2c74ea8489711a7a924"
   },
   "production": {
-    "apiUrl": "http://49.12.41.45:8081",
-    "contentApiKey": "b178f24c80437ca3822c2b0497"
+    "apiUrl": "https://staging.besttime.app/ghost",
+    "contentApiKey": "27fb37e2c74ea8489711a7a924"
   }
 }
