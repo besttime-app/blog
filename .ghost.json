@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://besttime-blog.herokuapp.com",
+    "apiUrl": "http://49.12.41.45:8081",
     "contentApiKey": "b178f24c80437ca3822c2b0497"
   },
   "production": {
-    "apiUrl": "https://besttime-blog.herokuapp.com",
+    "apiUrl": "http://49.12.41.45:8081",
     "contentApiKey": "b178f24c80437ca3822c2b0497"
   }
 }
