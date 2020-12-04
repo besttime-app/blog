@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://ghost.besttime.app",
-    "contentApiKey": "27fb37e2c74ea8489711a7a924"
+    "contentApiKey": "fb2f09c432b42ea2464f929059"
   },
   "production": {
     "apiUrl": "https://ghost.besttime.app",
-    "contentApiKey": "27fb37e2c74ea8489711a7a924"
+    "contentApiKey": "fb2f09c432b42ea2464f929059"
   }
 }
