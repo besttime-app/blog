@@ -1,3 +1,9 @@
+Blog repo for BestTime.app Foot-traffic data API.
+
+https://besttime.app
+
+
+
 # Gatsby Starter Ghost
 
 A starter template to build lightning fast websites with [Ghost](https://ghost.org) & [Gatsby](https://gatsbyjs.org)
